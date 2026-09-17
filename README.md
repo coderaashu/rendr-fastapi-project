@@ -1,2 +1,2 @@
 # rendr-fastapi-project
-deploying a fastapi project using reader
+deploying a fastapi project using render
